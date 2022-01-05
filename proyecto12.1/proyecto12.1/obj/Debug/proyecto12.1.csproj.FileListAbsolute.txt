@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\bin\Debug\proyecto12.1.exe.config
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\bin\Debug\proyecto12.1.exe
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\bin\Debug\proyecto12.1.pdb
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\obj\Debug\proyecto12.1.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\obj\Debug\proyecto12.1.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\obj\Debug\proyecto12.1.exe
+D:\Programas\Cursos\C# ya\nombre-y-edad-de-dos-personas\proyecto12.1\proyecto12.1\obj\Debug\proyecto12.1.pdb

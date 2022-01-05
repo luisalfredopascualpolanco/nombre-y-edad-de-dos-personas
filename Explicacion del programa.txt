@@ -1,0 +1,5 @@
+Explicacion del programa:
+
+Es una app de consola 
+
+Solicitar el ingreso del nombre y edad de dos personas. Mostrar el nombre de la persona con mayor edad.
